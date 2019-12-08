@@ -3,6 +3,12 @@ name = "asciicolor"
 version = "0.1.0"
 authors = ["adam-mcdaniel <adam.mcdaniel17@gmail.com>"]
 edition = "2018"
+license = "MIT"
+description = "A tiny library for coloring text in ASCII terminals"
+homepage = "https://github.com/adam-mcdaniel/asciicolor"
+repository = "https://github.com/adam-mcdaniel/asciicolor"
+documentation = "https://docs.rs/asciicolor"
+readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [dependencies]
